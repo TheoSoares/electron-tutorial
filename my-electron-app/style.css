@@ -1,0 +1,9 @@
+body {
+    -webkit-user-select: none;
+    user-select: none;
+}
+
+.button {
+    background: fixed;
+    background-color: blue;
+}
